@@ -1,0 +1,5 @@
+127.0.0.1 - - [12/Jan/2024:21:17:29 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Jan/2024:21:17:30 +0530] "GET /servlet-jsp-crud-operation/ HTTP/1.1" 200 2626
+0:0:0:0:0:0:0:1 - - [12/Jan/2024:21:17:46 +0530] "POST /servlet-jsp-crud-operation/addStudent HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Jan/2024:21:17:47 +0530] "GET /servlet-jsp-crud-operation/getStudents HTTP/1.1" 200 521437
+0:0:0:0:0:0:0:1 - - [12/Jan/2024:21:17:53 +0530] "GET /servlet-jsp-crud-operation/editStudent?id=eeeeb9b3-157d-4e68-940e-01406c47572b HTTP/1.1" 200 2548

@@ -1,0 +1,6 @@
+127.0.0.1 - - [24/Dec/2023:12:57:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Dec/2023:12:57:29 +0530] "GET /spring-mvc-jpa-crud-project/ HTTP/1.1" 500 21325
+0:0:0:0:0:0:0:1 - - [24/Dec/2023:12:58:29 +0530] "GET /spring-mvc-jpa-crud-project/ HTTP/1.1" 200 617
+0:0:0:0:0:0:0:1 - - [24/Dec/2023:12:58:34 +0530] "GET /spring-mvc-jpa-crud-project/new HTTP/1.1" 200 1040
+0:0:0:0:0:0:0:1 - - [24/Dec/2023:12:58:49 +0530] "POST /spring-mvc-jpa-crud-project/save HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Dec/2023:12:58:49 +0530] "GET /spring-mvc-jpa-crud-project/ HTTP/1.1" 200 900

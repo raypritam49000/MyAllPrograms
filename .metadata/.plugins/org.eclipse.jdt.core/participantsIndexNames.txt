@@ -1,0 +1,25 @@
+INDEX VERSION 1.134
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\506402935.index
+\spring-mvc-jpa-crud-project\src\main\java
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2958290627.index
+\Srldc\src\main\java
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3390358524.index
+\jersey-jetty-rest-api-project\src\main\resources
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1650701817.index
+\CallManagement\src\main\resources
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3274652102.index
+\jersey-jetty-rest-api-project\src\main\resources
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1536490974.index
+\CallManagement\src\main\resources
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3807121735.index
+\jersey-rest-api-project\src\main\resources
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4292102288.index
+\Srldc\src\main\java
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1650723686.index
+\spring-boot-mvc-token-project\src\main\java
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1642548640.index
+\servlet-jsp-crud-operation\src\main\java
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1717257809.index
+\spring-mvc-jpa-crud-project\src\main\java
+D:\MyAllPrograms\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2756619282.index
+\servlet-jsp-crud-operation\src\main\resources
